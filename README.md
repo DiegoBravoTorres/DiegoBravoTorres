@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiegoBravoTorres
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Frameworks and Java
-- 💞️ I’m looking to collaborate on Digital Agencies or IT companies 
+- 💞️ I’m looking to collaborate with Digital Agencies or IT companies 
 - 📫 You can reach me at my email diegobt30@gmail.com or at my webage diegobravo.me
 
 <!---
